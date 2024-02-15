@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////
-// Create Date:   21:10:03 03/31/2021
+// Create Date:   21:10:03 03/31/2023
 // Designer Name: Karthikeya Rajkumar
 // Module Name:   Reg32
 // Project Name: Three_Stage_Pipelined_MIPS
